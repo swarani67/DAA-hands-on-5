@@ -84,3 +84,13 @@ public class minheap<s extends Comparable<s>>
         scanner.close();
     }
 }
+
+
+
+
+total elements in heap 7
+elements of heap:
+4 10 3 5 1 7 9
+Min Heap: [1, 4, 3, 5, 10, 7, 9]
+Removed_root of heap: 1
+Min Heap: [3, 4, 7, 5, 10, 9]
